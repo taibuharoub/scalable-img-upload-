@@ -1,0 +1,21 @@
+{
+  "name": "scalable-img-upload-",
+  "version": "1.0.0",
+  "description": "Scalable ImageFile Upload",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taibuharoub/scalable-img-upload-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taibuharoub/scalable-img-upload-/issues"
+  },
+  "homepage": "https://github.com/taibuharoub/scalable-img-upload-#readme"
+}
