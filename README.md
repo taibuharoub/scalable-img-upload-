@@ -34,4 +34,3 @@ Give a ⭐️ if this project helped you!
 This project is [ISC](https://github.com/taibuharoub/scalable-img-upload-/blob/master/LICENSE) licensed.
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
