@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Scalable ImageFile Upload
+> Scalable ImageFile Upload using amazon s3
 
 ### 🏠 [Homepage](https://github.com/taibuharoub/scalable-img-upload-#readme)
 
