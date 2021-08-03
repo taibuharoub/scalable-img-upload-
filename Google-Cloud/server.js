@@ -1,5 +1,9 @@
 const express = require("express");
 const app = express();
+require("dotenv").config();
+
+const connectDB = require("./utils/db")
+connectDB();
 
 app.post("/upload", (req, res, next) => {
     //
