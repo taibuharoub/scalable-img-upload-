@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Scalable ImageFile Upload using Amazon S3 and Cloudinary
+> Scalable ImageFile Upload using Amazon S3, Cloudinary and Google Cloud Storage
 
 ### 🏠 [Homepage](https://github.com/taibuharoub/scalable-img-upload-#readme)
 
